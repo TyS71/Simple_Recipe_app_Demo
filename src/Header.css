@@ -1,0 +1,19 @@
+.headerBar{
+	display: flex;
+	justify-content: space-between;
+	padding: 10px;
+	background-color:black;
+	color: white;
+}
+
+nav{
+	display: flex;
+	justify-content: center;
+	align-items:center;
+}
+
+nav a {
+	color: white;
+	padding: 10px;
+	text-decoration: none;
+}

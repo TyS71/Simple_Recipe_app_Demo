@@ -1,0 +1,20 @@
+form{
+	display: flex;
+	flex-direction: column;
+	width: 50%;
+	align-items: center;
+	padding: 40px;
+	margin: 25px auto;
+}
+
+label{
+	margin: 10px;
+}
+
+#new-recipe{
+	border: solid;
+	border-radius: 20px;
+	width: 30%;
+	text-align: center;
+	margin: 50px auto;
+}

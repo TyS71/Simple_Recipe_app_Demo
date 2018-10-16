@@ -1,0 +1,11 @@
+.recipe-item{
+	width: 30%;
+	margin: 1%;
+	padding: 15px;
+	box-shadow: 1px 1px 5px black, 
+							5px 5px 10px gray;
+}
+
+.img{
+	width: 100%;
+}
